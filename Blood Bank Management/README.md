@@ -2,15 +2,15 @@
 
 ## Screenshots
 ### Homepage
-![homepage snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/homepage.png?raw=true)
+![homepage snap](https://github.com/gowther33/University-Projects/blob/master/Blood%20Bank%20Management/static/screenshot/homepage.PNG)
 ### Admin Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/admindashboard.png?raw=true)
-### Blood Donation 
-![invoice snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/blooddonation.png?raw=true)
-### Blood Request
-![doctor snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/bloodrequest.png?raw=true)
+![dashboard snap](https://github.com/gowther33/University-Projects/blob/master/Blood%20Bank%20Management/static/screenshot/admin_dashboard.PNG)
+### Donation Form
+![invoice snap](https://github.com/gowther33/University-Projects/blob/master/Blood%20Bank%20Management/static/screenshot/donation_form.PNG)
+### Pateint Blood Requests
+![doctor snap](https://github.com/gowther33/University-Projects/blob/master/Blood%20Bank%20Management/static/screenshot/request_page.PNG)
 ### Logout
-![doctor snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/logout.png?raw=true)
+![doctor snap](https://github.com/gowther33/University-Projects/blob/master/Blood%20Bank%20Management/static/screenshot/logout.PNG)
 ---
 ## Functions
 
